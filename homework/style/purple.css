@@ -1,0 +1,44 @@
+body{
+    margin: 50px;
+    background: #F9E1E5;
+}                                                                                   
+
+.one{
+    border: 1px solid #FA9F92;
+    padding: 90px;
+}
+
+input[type=text]{
+    width: 95%;
+    padding: 12px 20px;
+}
+
+button{
+    background-color: #6CAA78;
+    color: white;
+    padding: 14px 24px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.cancelbtn{
+    padding: 14px 24px;
+    background-color: #f44336;
+}
+
+
+.cancelbtn,.signupbtn{
+    float: left;
+    width: 50%;
+}
+
+.cancelbtn{
+    padding: 14px;
+}
+
+.two{
+    clear: "";
+    display: table;
+}

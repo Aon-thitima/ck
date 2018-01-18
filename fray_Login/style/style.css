@@ -1,0 +1,56 @@
+body{
+    margin: 20px;
+    background-color: #F4A860;
+}
+
+.one{
+    border: 1px solid #F0F0EF;
+    padding: 90px;
+}
+
+input[type=text]{
+    width: 95%;
+    padding: 12px 20px;
+}
+
+input[type=Number]{
+    width: 95%;
+    padding: 12px 20px;
+}
+
+button{
+    background-color: rgb(9, 148, 14);
+    color: white;
+    padding: 14px 20px;
+    /*padding: 14px 20px;*/
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.cancelbtn{
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+.cancelbtn,.signupbtn{
+    float: left;
+    width: 50%;
+}
+
+.cancelbtn{
+    padding: 14px;
+}
+
+.three{
+    content: "";
+    clear: both;
+    /*display: table;*/
+}
+
+@media screen and (max-width:300px){
+    .cancelbtn,.signupbtn{
+        width: 100%;
+    }
+}

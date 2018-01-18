@@ -1,0 +1,29 @@
+/* body{
+    background-color: #F1B8BB; 
+} */
+.kob{
+    border-style: solid;
+    border-color: #EEF2E7;
+    margin: 50px;
+    padding: 50px;
+}
+.but{
+    margin-left: 60px;
+}
+input[type=text]{
+    width: 24.5%;
+    padding: 12px 20px;
+    margin-left: 60px;
+}
+.BT{
+    background-color: #555555; /* Black */
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 1px 1px;
+    cursor: pointer;
+}
